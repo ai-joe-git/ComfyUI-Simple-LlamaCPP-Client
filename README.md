@@ -1,3 +1,6 @@
+![GitHub Repo Size](https://img.shields.io/github/repo-size/ai-joe-git/ComfyUI-Simple-LlamaCPP-Client)
+![License](https://img.shields.io/github/license/ai-joe-git/ComfyUI-Simple-LlamaCPP-Client)
+
 # ComfyUI-Simple-LlamaCPP-Client
 
 A lightweight custom node for **ComfyUI** that connects directly to a local **llama.cpp OpenAI-compatible server**.
